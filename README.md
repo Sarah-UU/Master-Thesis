@@ -3,6 +3,11 @@
 # Abstract
 Around 1% of the population worldwide suffer from epilepsy, a condition which is characterized by recurring seizures. The development of reliable biomarkers for both prediction and targeted treatment of seizures is critical, as they can pave the way towards personalized therapy in epilepsy. In addition, sensitive biomarkers can be utilized for the detection of epilepsy in its early stages and allow for early treatment intervention. Various types of biomarkers have been studied in relation to epilepsy, with blood markers emerging as major candidates. Blood biomarkers offer the benefit of being cost and time efficient, in addition to being less invasive to sample in contrast to cerebrospinal fluid markers. Importantly, they can enhance patient diagnosis and prognosis when supplemented with other diagnostic methods, such as EEG. In this pilot study, five blood biomarkers of brain injury are studied in epilepsy, post-stroke epilepsy and single seizure patients. The aim is to analyze whether S100B, NSE, GFAP, NfL and tau are promising indicators of epilepsy after a first seizure in adults. The results present S100B as the most promising biomarker, with potential to predict early epilepsy.
 
+# Thesis Objective
+
+The aim of this thesis was to investigate the profile of brain injury biomarkers in a pilot study on patients with new-onset seizures using machine learning. Serum and plasma samples were collected from 73 patients after experiencing a first seizure, and were followed until a diagnosis of epilepsy, post-stroke epilepsy or a single seizure could be made. The biomarkers in this study comprise of S100 calcium-binding protein B (S100B), neuron-specific enolase (NSE), glial fibrillary acidic protein (GFAP), neurofilament light (NfL) and microtubule-associated protein tau. The objective in this project was to assess differences in the profile of these biomarkers between patient groups, and whether they are indicative of epilepsy after a first seizure.
+
+
 # Code obtained/adapted from:
   SMOTE/SMOTE-Tomek: "Credit Card Fraud Detection", 2018, https://www.kaggle.com/lane203j/methods-and-common-mistakes-for-evaluating-models/notebook?fbclid=IwAR1lscVL6YgO4_oYzeAHqckIkcZdhyyu0d72vhjfKurHwx1UI1-L2MkGZXU
   
